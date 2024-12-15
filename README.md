@@ -1,2 +1,2 @@
 # Bend-Snip---Senior-Design-Project-2024
-This is the code for the Tufts University 2024 Mechanical Engineering Senior Design Project - Bend &amp; Snip (Automated Jumper Wire Cutter). 
+This is the code for the Tufts University 2024 Mechanical Engineering Senior Design Project - Bend &amp; Snip (Automated Jumper Wire Cutter). This Project was completed by Elizaebth Abboud, ReAnna Barclay, Kaitlin Necakov, and Emma Gonzalez. The final code for this project will be availbale here, as open source.  _Note: The Generative AI, ChatGPT, was used when creating this code for syntax and debugging purposes._
